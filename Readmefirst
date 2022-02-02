@@ -1,0 +1,5 @@
+This video forgery detection is carried out using Python (RESnext, CNN and LSTM).
+The data of videos were requested by Google, Face Forensics. 
+You can search for FaceForencsics on web and can get the dataset.
+We couldn't get results because of unavailablity of GPU to train such a large dataset. We trained it on like 500-1000 videos which took 6,7 hours on google colab. 
+You can try training on whole dataset if you have resources.
